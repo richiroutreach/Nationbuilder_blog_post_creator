@@ -1,2 +1,2 @@
-# Nationbuilder_blog_post_creator
+# Nationbuilder Blog Post Creator
 Creates sample blog posts on NB
